@@ -24,7 +24,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: '/images/FB_IMG_1722870513003[1].jpg'
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
