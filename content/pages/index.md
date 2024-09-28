@@ -25,7 +25,7 @@ sections:
     image:
       type: Image
       url: '/images/FB_IMG_1722870513003[1].jpg'
-      altText: Hero section image
+      altText: Main image
   - type: CardsSection
     title: Cards Section Component
     subtitle: Section subtitle here
