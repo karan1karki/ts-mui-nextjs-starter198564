@@ -4,7 +4,9 @@ type: Page
 sections:
   - type: HeroSection
     title: karan karki
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: >-
+      An Full Stack Web Developer using Laravel and Django Mainly on Backend Web
+      Developer....
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
