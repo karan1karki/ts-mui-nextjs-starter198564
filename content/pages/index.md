@@ -6,8 +6,8 @@ sections:
     title: karan karki
     subtitle: An Full Stack Web Developer using Laravel and Django ....
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
+      Hello basically I am an Backend developer having the few experiences on
+      Live hosting and the bugs and error resolving. [Learn
       more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
