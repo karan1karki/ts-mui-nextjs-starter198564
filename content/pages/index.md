@@ -62,7 +62,7 @@ sections:
         actions:
           - type: Button
             label: Learn More
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: ./learn
       - type: Card
         title: Item Title
         text: >-
