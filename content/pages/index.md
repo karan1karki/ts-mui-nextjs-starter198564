@@ -31,7 +31,7 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: First Card Title
+        title: Spell Innovation PVT. LTD.
         image:
           type: Image
           url: /images/nextjs.svg
