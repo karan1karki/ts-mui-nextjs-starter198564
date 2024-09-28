@@ -53,11 +53,12 @@ sections:
           type: Image
           url: /images/mui-5.svg
           altText: Second item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: |
+          Working with team and analyzing the project and step guide process
+          for easy solving.
+          Focusing on the deadline of the project on to time and achebing the
+          good communication skills
+          Maintaining and checking the project till handover
         actions:
           - type: Button
             label: Read the Docs
