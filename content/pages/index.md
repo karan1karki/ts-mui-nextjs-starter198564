@@ -37,10 +37,12 @@ sections:
           url: /images/nextjs.svg
           altText: First item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Working with the wider development team
+
+          Managing web design, bug solving and mainly focusing on Backend
+          (security, database handling).
+
+          Timely resolving with logical solution fixing
         actions:
           - type: Button
             label: Read the Docs
