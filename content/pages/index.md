@@ -61,7 +61,7 @@ sections:
           Maintaining and checking the project till handover
         actions:
           - type: Button
-            label: Read the Docs
+            label: Learn More
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Item Title
