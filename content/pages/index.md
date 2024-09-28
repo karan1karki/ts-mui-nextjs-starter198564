@@ -18,7 +18,7 @@ sections:
         color: primary
       - type: Button
         label: Contact Me
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: ./contact
         size: large
         variant: outlined
         color: primary
