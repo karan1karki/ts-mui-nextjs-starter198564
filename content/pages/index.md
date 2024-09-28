@@ -45,7 +45,7 @@ sections:
           Timely resolving with logical solution fixing
         actions:
           - type: Button
-            label: Read the Docs
+            label: Learn More
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Bazoon PVT. LTD.
