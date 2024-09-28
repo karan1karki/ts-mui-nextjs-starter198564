@@ -4,9 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: karan karki
-    subtitle: >-
-      An Full Stack Web Developer using Laravel and Django Mainly on Backend Web
-      Developer....
+    subtitle: An Full Stack Web Developer using Laravel and Django ....
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
